@@ -1,0 +1,139 @@
+body{font-family: sans-serif;}
+header,footer{border: 1px solid #e2e6e9;
+  background-color:#F8F8F8;
+  }
+header{margin:-10px 5px 10px -10px;
+  width:1351px;
+height:120px;}
+.icon{margin: 20px 10px;}
+input[type=search]{border-radius: 3px;
+  border:1px solid #E0E0E0;
+  box-shadow:0 0.8px 0 0 #808080;
+  position:absolute;
+  margin-top:-75px;
+  margin-left:145px;
+  width:650px;
+  height:45px;}
+  .micro, .search {position:absolute;
+    margin-top:-65px;
+    margin-left: 700px;}
+    .micro{margin-left: 700px;}
+    .search{margin-left: 740px;}
+input[type=search]:hover {box-shadow:1px 1px 4px 1px rgba(0,0,0,0.2);}
+ul{position:absolute;
+  margin-top:-10px;}
+  .all{
+    margin-left:110px;}
+  .set{
+    margin-left:600px;}
+li
+{padding:10px;
+  font-size:14px;
+  list-style-type: none;
+display:inline;}
+a{text-decoration: none;
+color: #666666;}
+a:hover {color:black;}
+a:active {color:#0080ff;}
+.tools:hover{color:#666666;
+  border:0.5px solid #808080;
+padding:4px}
+.results{
+  margin-left:150px;
+  font-size:14px;
+color: #666666;}
+.side,.wiki{width:460px;
+  border: 1px solid #e2e6e9;
+  margin-left:800px;}
+  .wiki{
+    height:190px;
+    margin-top:10px;}
+  .sidetext{font-size: 30px;
+    }
+    .soft{
+      margin-top:-10px;
+      margin-left:10px;
+      font-size:14px;
+    color: #666666;}
+.share{position:absolute;
+  margin-top:-85px;
+  margin-left:250px;}
+  .pic1{margin-top:-130px;
+    margin-left:300px;}
+    .people {text-indent: 2px;
+      line-height: 3;
+      font-size:17px;
+      color: black;}
+
+  .people:hover{text-decoration: underline;}
+  .pic2,.pic3,.pic4,.pic5,.pic6{font-size:12px;
+    height:70px;
+  width:80px;
+color:#00008B;}
+.pic2{margin-top:-60px;
+  margin-left:0;}
+.pic3{margin-top:-95px;
+  margin-left:85px;}
+.pic4{margin-top:-100px;
+  margin-left:170px;}
+  .pic5{margin-top:-100px;
+    margin-left:260px;}
+    .pic6{margin-top:-100px;
+      margin-left:355px;}
+      abbr{text-decoration: none;}
+  .first{font-family:sans-serif;
+    margin-top:-170px;}
+    .second{
+      position: inherit;
+      margin-top:-226px;}
+
+div{
+  padding:14px;
+  margin-left:130px;}
+.site{font-size:18px;
+color:#00008B;}
+.page{margin:1px 4px;
+  color:#008000;
+font-size:16px;}
+.text{margin:-18px 4px;
+  font-size:12.5px;
+color:#666666;}
+.textside{margin-top:4px;}
+.wikismall{font-size:13px;}
+
+.site:hover{color:#00008B;
+text-decoration: underline;}
+.related {color:#4d4d4d;
+  margin-top:20px;
+  margin-left:140px;
+  line-height: 3;
+  font-size:17px;
+
+}
+.pages{color:#00008B;
+font-weight: bold;
+  margin-top:20px;
+  margin-left:140px;
+line-height: 2;
+font-size:15px;}
+.pages:hover{text-decoration: underline;
+color:#00008B;}
+.options1{margin-left:300px;
+margin-top:10px;}
+.options2{
+  margin-left:0;
+margin-top:-145px;}
+.google2{margin-left:280px;}
+.number{margin-left:250px;
+}
+
+  .numbers:link{color:#00008B;}
+  .numbers:hover{text-decoration: underline;
+    color:#00008B;}
+footer{position: absolute;
+  margin-top: 30px;
+  margin-bottom:-10px;
+  height:50px;
+width:1341px;}
+.term{margin-top: 10px;
+margin-left: 100px;}
